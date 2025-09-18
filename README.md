@@ -17,6 +17,8 @@ Separate Dashboards for Buyers Sellers and admin
 Product Listing with Categories and Images
 Product Search and Filter
 
+Here is attached documentation of the second hand marketing system which also helps to study about that project. 
+
 
 🔮 Future Enhancements
   
