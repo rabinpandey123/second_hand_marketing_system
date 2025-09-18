@@ -20,4 +20,5 @@ Product Search and Filter
 
 🔮 Future Enhancements
   Integration with app
+  
   AI based product Recommendations
